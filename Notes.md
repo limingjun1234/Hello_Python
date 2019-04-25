@@ -31,11 +31,9 @@ for i in range(5）：#从0~4
 ```
 参数:    range( 起、止、步进（增幅）)  
 
-ex:        range(1,10,2)              #从一开始（包含1），从10结束（不包含10）每次增幅2  
-             1，3，5，7，9           #结果  
+ex:		range(1,10,2)              #从一开始（包含1），从10结束（不包含10）每次增幅2  
+	         1，3，5，7，9           #结果  
 p s:		[enumerate()函数](https://docs.python.org/zh-cn/3/library/functions.html#enumerate )：可以做出相同的功能  
-
-
 
 
 
